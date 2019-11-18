@@ -1,0 +1,6 @@
+
+Lower bound:
+./tw-approximation < .gr file
+
+Upper bound:
+./heuristic < .gr file
